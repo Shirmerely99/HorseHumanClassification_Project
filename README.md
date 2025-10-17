@@ -1,7 +1,7 @@
 ## Horse vs Human Image Classification (CNN)
 The project builds CNN to classify images as 1 for Human and 0 for Horse. The goal is to explore image classification using deep learning and accurately classify images as either a horse or a human.
 
-## 📸 Dataset
+## Dataset
 
 - Source: [TensorFlow Datasets - Horses or Humans](https://www.tensorflow.org/datasets/catalog/horses_or_humans)
 - Classes:  
